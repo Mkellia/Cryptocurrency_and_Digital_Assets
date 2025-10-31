@@ -32,7 +32,7 @@ This project demonstrates how blockchain can be used to securely register, verif
 1. Clone the repository:
 
 ```bash
-git clone [YOUR_REPOSITORY_LINK]
+git clone [https://github.com/Mkellia/Cryptocurrency_and_Digital_Assets.git]
 ```
 
 2. Navigate to the project folder:
